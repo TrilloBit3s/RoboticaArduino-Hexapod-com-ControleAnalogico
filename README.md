@@ -1,4 +1,4 @@
->### RoboticaArduino-hexapode-com-analogico
+>### RoboticaArduino-Hexapod-com-ControleAnalogico
 
 
 ![15400931_1205715522844188_5840004806805941045_n](https://user-images.githubusercontent.com/79748858/111405488-53e75380-86af-11eb-90a6-d9a93093b0f8.jpg)
